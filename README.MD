@@ -55,8 +55,8 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
 ## 📚 Meus arquivos
 
 - 🎧 [meu podcast](./output/EP%201.%20PILOTO.MP3)  
-- 🖼️ [meus prompts para capa](./src\prompts/capa.md)  
-- 🎬 [meus prompts para roteiro](./src\prompts/roteiro.md)
+- 🖼️ [meus prompts para capa](./src/prompts/capa.md)  
+- 🎬 [meus prompts para roteiro](./src/prompts/roteiro.md)
 - 🎨 [capa do podcast](./assets/cover.png)
 
 ---
