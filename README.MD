@@ -39,7 +39,7 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
 - [ChatGPT](https://chat.openai.com/) — criação de roteiro e ideias  
 - [ElevenLabs](https://beta.elevenlabs.io/) — geração de voz  
 - [Capcut](https://www.capcut.com/pt-br/) — edição de áudio  
-- [MidJourney](https://www.midjourney.com/app/) — criação da capa  
+- [Leonardo.AI](https://app.leonardo.ai/) — criação da capa  
 
 ---
 
@@ -47,16 +47,16 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
 
 1. gerei o roteiro com o ChatGPT a partir de prompts criativos  
 2. transformei o texto em áudio com ElevenLabs  
-3. criei a capa com o Midjourney  
+3. criei a capa com o Leonardo AI  
 4. finalizei a edição no CapCut  
 
 ---
 
 ## 📚 Meus arquivos
 
-- 🎧 [meu podcast](./audio/meu_podcast.mp3)  
+- 🎧 [meu podcast](./output/EP%201.%20PILOTO.MP3)  
 - 🖼️ [meus prompts para capa](./src/prompts/capa.md)  
-- 🎬 [meus prompts para roteiro](./src/prompts/capa.md)
+- 🎬 [meus prompts para roteiro](./src/prompts/roteiro.md)
 - 🎨 [capa do podcast](./assets/cover.png)
 
 ---
