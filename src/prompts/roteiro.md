@@ -1,4 +1,4 @@
-## 🎬 Roteiro e Prompts Utilizados
+## 🎬 Prompt do Roteiro
 
 ```plaintext
 > prompt:  
