@@ -26,7 +26,7 @@
     <audio src="audio/meu_podcast.mp3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto: **Podcast IA — FAILCAST: O Lado B da Inovação**
+# **Podcast IA — FAILCAST: O Lado B da Inovação**
 
 > 💡 Este projeto foi desenvolvido como parte do desafio da [DIO](https://dio.me) para criar um podcast gerado por inteligências artificiais.
 
