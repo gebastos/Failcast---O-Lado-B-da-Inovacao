@@ -1,6 +1,5 @@
-# 🎬 Roteiro e Prompts Utilizados
+## 🎬 Roteiro e Prompts Utilizados
 
-## 🧠 Ideia inicial
 ```plaintext
 > prompt:  
 > “Você é um roteirista de podcast, e vamos criar um roteiro de podcast de tecnologia focado em histórias reais de falhas, bugs e projetos que deram errado — contadas pelos próprios criadores. o nome do podcast é “Failcast” – o lado B da inovação". Com o publico alvo todas as pessoas que se interessam por tecnologia e cases de "fracassos" que geram insights e aprendizados. O formato de roteiro deve ser:
