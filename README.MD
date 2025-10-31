@@ -77,7 +77,9 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
     <a href="https://www.linkedin.com/in/geovanna-bastos/">LinkedIn</a>
     </p>
 </p>
-<br>
+
+<br><br>
+
 ---
 
 ⌨️ com 🩷 por [Geovanna Bastos](https://github.com/gebastos)
