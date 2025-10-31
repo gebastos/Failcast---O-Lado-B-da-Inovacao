@@ -6,51 +6,6 @@
 </p>
 
 <p align="center">
-     preview do meu podcast 🎙️
-</p>
-
-<div align="center">
-    <audio src="output/EP 1. PILOTO.MP3" controls title="Podcast PILOTO"></audio>
-</div>
-
-# **Projeto FAILCAST - O LADO B DA INOVAÇÃO**
-
-> 💡 Este projeto foi desenvolvido como parte do desafio da [DIO](https://dio.me) para criar um podcast gerado por inteligências artificiais.
-
-Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e capa**, aplicando o que aprendi sobre **prompts**.
-
-## 💻 Tecnologias utilizadas
-
-- [ChatGPT](https://chat.openai.com/) — criação de roteiro e ideias  
-- [ElevenLabs](https://beta.elevenlabs.io/) — geração de voz  
-- [Capcut](https://www.capcut.com/pt-br/) — edição de áudio  
-- [Leonardo.Ai](https://app.leonardo.ai/) — criação da capa  
-
-## ✨ Como foi feito ?
-
-1. gerei o roteiro com o ChatGPT a partir de prompts criativos  
-2. transformei o texto em áudio com ElevenLabs  
-3. criei a capa com o Midjourney  
-4. finalizei a edição no CapCut  
-
----
-
-## 📚 Materiais
-
-- 🎧 [meu podcast](./output/EP%201.%20PILOTO.MP3)  
-- 🧠 [meus prompts](./src/prompts)  
-- 🎨 [capa do podcast](./assets/cover.png)
-
----
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
 <a href="https://dio.me/">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
@@ -100,7 +55,8 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
 ## 📚 Meus arquivos
 
 - 🎧 [meu podcast](./audio/meu_podcast.mp3)  
-- 🧠 [meus prompts](./prompts.txt)  
+- 🖼️ [meus prompts para capa](./src/prompts/capa.md)  
+- 🎬 [meus prompts para roteiro](./src/prompts/capa.md)
 - 🎨 [capa do podcast](./assets/cover.png)
 
 ---
