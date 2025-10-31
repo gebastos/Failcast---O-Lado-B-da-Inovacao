@@ -78,7 +78,7 @@ Neste projeto, utilizei diferentes ferramentas de IA para criar **roteiro, voz e
     </p>
 </p>
 
-<br><br>
+<br>
 
 ---
 
